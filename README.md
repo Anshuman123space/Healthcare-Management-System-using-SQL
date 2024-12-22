@@ -1,1 +1,1 @@
-# Healthcare-Management-System-using-SQL
+# Health-care-management-system
